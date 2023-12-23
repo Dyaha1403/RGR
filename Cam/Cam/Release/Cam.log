@@ -1,0 +1,57 @@
+﻿  camera.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  glmath.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(27,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(40,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(49,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(49,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(104,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(119,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(139,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(164,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(172,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(195,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(196,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(197,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(277,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(376,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(379,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(386,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(387,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(415,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(416,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(416,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(627,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(627,9): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(626,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(626,9): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(634,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(634,3): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(632,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(632,6): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(640,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(640,6): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(639,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(639,6): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(863,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(883,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(883,33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Cam.vcxproj -> D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Release\Cam.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

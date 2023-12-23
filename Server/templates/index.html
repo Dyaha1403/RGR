@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Гироскоп</title>
+</head>
+<body>
+  <script>
+    if (window.DeviceMotionEvent) {
+      // Присоединение обработчика события
+      window.addEventListener('devicemotion', (event) => {
+        // Извлечение данных о движении
+        const accelerationX = event.acceleration.x;
+        const accelerationY = event.acceleration.y;
+        const accelerationZ = event.acceleration.z;
+
+        // Отправка данных на сервер
+        sendData(accelerationX, accelerationY, accelerationZ);
+      }, true);
+    } else {
+      console.error('API DeviceMotion не поддерживается');
+    }
+
+    // Функция отправки данных на сервер
+    function sendData(accelerationX, accelerationY, accelerationZ) {
+      // Создаем объект запроса
+      const xhr = new XMLHttpRequest();
+
+      // Устанавливаем метод запроса
+      xhr.open('POST', '/motion_data');
+
+      // Устанавливаем тип содержимого
+      xhr.setRequestHeader('Content-Type', 'application/json');
+
+      // Формируем данные запроса
+      const data = JSON.stringify({
+        accelerationX,
+        accelerationY,
+        accelerationZ
+      });
+
+      // Отправляем запрос
+      xhr.send(data);
+    }
+  </script>
+</body>
+</html>

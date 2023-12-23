@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\main.cpp(31,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\main.cpp(31,41): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\main.cpp(31,38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Cam.vcxproj -> D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Debug\Cam.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

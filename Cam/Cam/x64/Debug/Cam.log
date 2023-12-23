@@ -1,0 +1,211 @@
+﻿  camera.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  glmath.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(27,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(40,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(49,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(49,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(104,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(119,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(139,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(164,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(172,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(195,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(196,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(197,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(277,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(376,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(379,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(386,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(387,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(415,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(416,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(416,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(627,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(627,9): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(626,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(626,9): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(634,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(634,3): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(632,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(632,6): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(640,21): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(640,6): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(639,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(639,6): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(863,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(883,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\utilites\glmath.cpp(883,33): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  main.cpp
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,40): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,46): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(80,52): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\utilites\glmath.h(167,45): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(103,1): warning C4005: AF_IPX: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(457,1): message : см. предыдущее определение "AF_IPX"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(147,1): warning C4005: AF_MAX: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(476,1): message : см. предыдущее определение "AF_MAX"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(187,1): warning C4005: SO_DONTLINGER: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(399,1): message : см. предыдущее определение "SO_DONTLINGER"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(240,25): error C2011: sockaddr: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(482,8): message : см. объявление "sockaddr"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(442,5): error C2143: синтаксическая ошибка: отсутствие "}" перед "константа"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(442,5): error C2059: синтаксическая ошибка: константа
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(496,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(577,1): warning C4005: IN_CLASSA: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(284,1): message : см. предыдущее определение "IN_CLASSA"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(583,1): warning C4005: IN_CLASSB: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(290,1): message : см. предыдущее определение "IN_CLASSB"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(589,1): warning C4005: IN_CLASSC: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(296,1): message : см. предыдущее определение "IN_CLASSC"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(600,1): warning C4005: INADDR_ANY: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(301,1): message : см. предыдущее определение "INADDR_ANY"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(602,1): warning C4005: INADDR_BROADCAST: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(303,1): message : см. предыдущее определение "INADDR_BROADCAST"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ws2def.h(638,28): error C2011: sockaddr_in: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(309,8): message : см. объявление "sockaddr_in"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(136,23): error C2011: fd_set: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(65,16): message : см. объявление "fd_set"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(171,1): warning C4005: FD_SET: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(99,1): message : см. предыдущее определение "FD_SET"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(180,16): error C2011: timeval: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(108,8): message : см. объявление "timeval"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(236,17): error C2011: hostent: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(164,9): message : см. объявление "hostent"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(249,16): error C2011: netent: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(177,9): message : см. объявление "netent"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(256,17): error C2011: servent: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(184,9): message : см. объявление "servent"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(268,18): error C2011: protoent: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(196,9): message : см. объявление "protoent"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(364,24): error C2011: WSAData: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(319,16): message : см. объявление "WSAData"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(462,18): error C2011: sockproto: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(491,8): message : см. объявление "sockproto"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(504,16): error C2011: linger: переопределение типа "struct"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(528,9): message : см. объявление "linger"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(517,1): warning C4005: SOMAXCONN: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(541,1): message : см. предыдущее определение "SOMAXCONN"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(551,1): warning C4005: FD_READ: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(559,1): message : см. предыдущее определение "FD_READ"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(554,1): warning C4005: FD_WRITE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(560,1): message : см. предыдущее определение "FD_WRITE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(557,1): warning C4005: FD_OOB: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(561,1): message : см. предыдущее определение "FD_OOB"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(560,1): warning C4005: FD_ACCEPT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(562,1): message : см. предыдущее определение "FD_ACCEPT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(563,1): warning C4005: FD_CONNECT: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(563,1): message : см. предыдущее определение "FD_CONNECT"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(566,1): warning C4005: FD_CLOSE: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(564,1): message : см. предыдущее определение "FD_CLOSE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1631,1): error C2375: accept: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(739,19): message : см. объявление "accept"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1653,1): error C2375: bind: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(744,16): message : см. объявление "bind"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1674,1): error C2375: closesocket: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(749,16): message : см. объявление "closesocket"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1691,1): error C2375: connect: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(751,16): message : см. объявление "connect"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1712,1): error C2375: ioctlsocket: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(756,16): message : см. объявление "ioctlsocket"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1735,1): error C2375: getpeername: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(761,16): message : см. объявление "getpeername"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1756,1): error C2375: getsockname: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(766,16): message : см. объявление "getsockname"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1777,1): error C2375: getsockopt: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(771,16): message : см. объявление "getsockopt"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1802,1): error C2375: htonl: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(778,19): message : см. объявление "htonl"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1819,1): error C2375: htons: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(780,20): message : см. объявление "htons"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1837,1): error C2375: inet_addr: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(782,26): message : см. объявление "inet_addr"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1855,1): error C2375: inet_ntoa: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(784,23): message : см. объявление "inet_ntoa"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1955,1): error C2375: listen: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(786,16): message : см. объявление "listen"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1974,1): error C2375: ntohl: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(790,19): message : см. объявление "ntohl"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(1991,1): error C2375: ntohs: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(792,20): message : см. объявление "ntohs"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2008,1): error C2375: recv: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(794,16): message : см. объявление "recv"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2031,1): error C2375: recvfrom: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(800,16): message : см. объявление "recvfrom"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2058,1): error C2375: select: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(808,16): message : см. объявление "select"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2083,1): error C2375: send: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(815,16): message : см. объявление "send"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2106,1): error C2375: sendto: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(821,16): message : см. объявление "sendto"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2133,1): error C2375: setsockopt: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(829,16): message : см. объявление "setsockopt"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2158,1): error C2375: shutdown: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(836,16): message : см. объявление "shutdown"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2178,1): error C2375: socket: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(840,19): message : см. объявление "socket"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2203,1): error C2375: gethostbyaddr: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(847,33): message : см. объявление "gethostbyaddr"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2225,1): error C2375: gethostbyname: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(852,33): message : см. объявление "gethostbyname"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2242,1): error C2375: gethostname: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(854,16): message : см. объявление "gethostname"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2282,1): error C2375: getservbyport: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(858,33): message : см. объявление "getservbyport"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2301,1): error C2375: getservbyname: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(862,33): message : см. объявление "getservbyname"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2320,1): error C2375: getprotobynumber: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(866,34): message : см. объявление "getprotobynumber"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2337,1): error C2375: getprotobyname: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(868,34): message : см. объявление "getprotobyname"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2357,1): error C2375: WSAStartup: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(872,16): message : см. объявление "WSAStartup"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2377,1): error C2375: WSACleanup: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(876,16): message : см. объявление "WSACleanup"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2394,1): error C2375: WSASetLastError: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(878,17): message : см. объявление "WSASetLastError"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2411,1): error C2375: WSAGetLastError: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(880,16): message : см. объявление "WSAGetLastError"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2432,1): error C2375: WSAIsBlocking: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(882,17): message : см. объявление "WSAIsBlocking"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2450,1): error C2375: WSAUnhookBlockingHook: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(884,16): message : см. объявление "WSAUnhookBlockingHook"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2468,1): error C2375: WSASetBlockingHook: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(886,20): message : см. объявление "WSASetBlockingHook"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2486,1): error C2375: WSACancelBlockingCall: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(888,16): message : см. объявление "WSACancelBlockingCall"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2504,1): error C2375: WSAAsyncGetServByName: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(890,19): message : см. объявление "WSAAsyncGetServByName"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2532,1): error C2375: WSAAsyncGetServByPort: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(898,19): message : см. объявление "WSAAsyncGetServByPort"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2560,1): error C2375: WSAAsyncGetProtoByName: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(906,19): message : см. объявление "WSAAsyncGetProtoByName"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2586,1): error C2375: WSAAsyncGetProtoByNumber: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(913,19): message : см. объявление "WSAAsyncGetProtoByNumber"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2612,1): error C2375: WSAAsyncGetHostByName: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(920,19): message : см. объявление "WSAAsyncGetHostByName"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2638,1): error C2375: WSAAsyncGetHostByAddr: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(927,19): message : см. объявление "WSAAsyncGetHostByAddr"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2668,1): error C2375: WSACancelAsyncRequest: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(936,16): message : см. объявление "WSACancelAsyncRequest"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(2686,1): error C2375: WSAAsyncSelect: переопределение; другое связывание
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock.h(938,16): message : см. объявление "WSAAsyncSelect"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(4318,1): error C2059: синтаксическая ошибка: }
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winsock2.h(4318,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\vcruntime_new.h(17,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\vcruntime_new.h(17,14): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\xmemory(1432,47): error C3861: nothrow: идентификатор не найден
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.35.32215\include\xmemory(1432,47): error C2065: nothrow: необъявленный идентификатор
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\main.cpp(70,43): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\main.cpp(70,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\OLD PC\GitHub\OpenGL-And-WindowsUI-Samples\cam\Cam\Cam\main.cpp(70,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
